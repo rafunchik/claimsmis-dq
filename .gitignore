@@ -111,3 +111,6 @@ project/plugins/project/
 .lib/
 
 
+/.bsp/
+/.idea/
+/backup/
